@@ -34,5 +34,3 @@ Currently building practical cybersecurity projects to simulate real-world secur
 ## 📫 Contact
 
 - LinkedIn: (add this soon)
-
-projects/brute-force-detection/README.md
