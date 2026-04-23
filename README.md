@@ -1,5 +1,4 @@
-# cybersecurity-portfolio
-cybersecurity-portfolio
+Cybersecurity Portfolio
 
 Hi, I'm Sam
 
