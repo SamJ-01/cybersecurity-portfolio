@@ -1,2 +1,37 @@
 # cybersecurity-portfolio
 cybersecurity-portfolio
+
+Hi, I'm Sam
+
+Aspiring SOC Analyst with hands-on experience in log analysis, threat detection, and incident investigation.
+
+Currently building practical cybersecurity projects to simulate real-world security scenarios.
+
+---
+
+## 🔐 Projects
+
+- 🕵️ Brute Force Attack Detection *(in progress)*
+- 📧 Phishing Analysis *(coming soon)*
+- 🚨 Incident Response Report *(coming soon)*
+
+---
+
+## 🧰 Skills
+
+- Log Analysis  
+- SIEM Fundamentals  
+- Network Traffic Analysis  
+- Incident Investigation  
+
+---
+
+## 📜 Certifications
+
+- Google Cybersecurity Professional Certificate
+
+---
+
+## 📫 Contact
+
+- LinkedIn: (add this soon)
